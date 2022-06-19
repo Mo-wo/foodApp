@@ -1,0 +1,28 @@
+.container {
+    flex: 1;
+    background-color: #fff;
+    padding-top: 25px;
+    /* // align-items: 'center';
+    // justify-content: 'center'; */
+}
+.buttonContainer {
+    margin-top: 100px;
+    border-radius: 50px;
+}
+.list {
+    margin: 10px;
+    background-color: pink;
+    padding: 15px;
+    width: 45%;
+}
+.meal {
+    font-size: 18px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+.price {
+    font-style: italic;
+    font-size: 20px;
+    opacity: 0.6;
+
+}
